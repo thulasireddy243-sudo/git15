@@ -1,0 +1,6 @@
+# Shell and Python history
+.bash_history
+.python_history
+# OS files
+.DS_Store
+Thumbs.db
